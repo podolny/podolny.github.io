@@ -1,1 +1,21 @@
-section.cards>article.card>div.card-title{Название товара}+img[src="/images/card-item-1.png"][alt="Товар-1"]+(.card-price>span.price-sum{24 000}+span.price-cur{руб.})+button{Заказать}
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+  
+    background-color: #f9f9f9;
+    color: #333333;
+  
+    width: 980px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 0;
+  }
+  
+  main > h2 {
+    text-align: center;
+    font-size: 25px;
+  }
